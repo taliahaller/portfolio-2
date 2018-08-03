@@ -45,6 +45,10 @@ h2 {
   margin-bottom: 3%;
 }
 
+h6 {
+  color: #949494;
+}
+
 .col-sm-4 h4 {
   color: #9370DB;
 }
@@ -59,8 +63,31 @@ h2 {
   border: 0;
   color: white;
   padding: 1%;
+  font-size: 1.5em;
 }
 
 .description {
   margin-top: 20px;
+}
+
+.panel-heading {
+  font-style: strong;
+}
+
+footer {
+  width: 100%;
+  background-color: #9370DB;
+  padding: 3%;
+  color: white;
+}
+
+.fa {
+  padding: 15px;
+  font-size: 19px;
+  color: white;
+}
+
+.fa:hover {
+  color: #d5d5d5;
+  text-decoration: none;
 }
