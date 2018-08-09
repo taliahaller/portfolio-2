@@ -33,9 +33,17 @@
   margin: 3% auto;
 }
 
+.space {
+  padding-bottom: 2%;
+}
+
 #picture {
   max-width: 300px;
   margin: 1% auto;
+}
+
+.resume {
+  padding-bottom: 3%;
 }
 
 h2 {

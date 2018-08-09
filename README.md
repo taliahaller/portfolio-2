@@ -1,6 +1,9 @@
 # _Talia's Portfolio Landing Page_
 
-#### _This application creates a portfolio webpage using HTML and CSS, which will later act as the landing page for my programming portfolio [8/4/18]._
+#### _This application creates a portfolio webpage using HTML and CSS, which will later act as the landing page for my programming portfolio [8/4/18].
+
+View my portfolio through GH-Pages: taliahaller.github.io/portfolio-2.
+_
 
 #### By _**Talia Haller**_
 
@@ -11,8 +14,7 @@ _The following document contains: My name, images of me, a list of projects I ha
 ## Setup/Installation Requirements
 
 * _Close this repository._
-* _Open a simple HTTP server in the top level of the cloned directory. For a mac, run the following command in your terminal: taliahaller.github.io/portfolio-2/._
-* _Then open your web browser of choice!_
+* _Open terminal, navigate to the project directory, run command "open index.html" in terminal._
 
 ## Known Bugs
 
@@ -29,4 +31,3 @@ _HTML, CSS, Bootstrap, FA_
 ### License
 
 Copyright (c) 2018 **_Talia Incorporated_**
-
